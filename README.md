@@ -1,9 +1,8 @@
 # flutter_otp_auth
-    OTP Authentication in Flutter using Firebase 
+- OTP Authentication in Flutter using Firebase 
 
 ## Introduction:
-
-    Google Firebase Provide Phone Authentication using SMS. The basic plan of firebase includes 10k of free SMS for month. We will learn Firebase Phone Authentication in Flutter in this article. We will start from firebase programmatically setup to actual integration in flutter. So let’s start...
+- Google Firebase Provide Phone Authentication using SMS. The basic plan of firebase includes 10k of free SMS for month. We will learn Firebase Phone Authentication in Flutter in this article. We will start from firebase programmatically setup to actual integration in flutter. So let’s start...
 
 ## What We Achieve:
 
@@ -286,13 +285,13 @@
 
 
 ## NOTE:
-    PLEASE CHECK OUT GIT REPO FOR FULL SOURCE CODE. YOU NEED TO ADD YOUR google-services.json FILE IN ANDROID => APP FOLDER.
+- PLEASE CHECK OUT GIT REPO FOR FULL SOURCE CODE. YOU NEED TO ADD YOUR google-services.json FILE IN ANDROID => APP FOLDER.
 
 ## Git Repo:
     https://github.com/myvsparth/flutter_otp_auth
 
 ## Conclusion:
-    OTP verification becomes one of the musts required authentication techniques where security is very important. Google firebase provide OTP Phone authentication free starter plan and flutter provide easy to setup technique for this.
+- OTP verification becomes one of the musts required authentication techniques where security is very important. Google firebase provide OTP Phone authentication free starter plan and flutter provide easy to setup technique for this.
 
 Related to Tags: Flutter, Dart, Firebase Auth, OTP Authentication
 
