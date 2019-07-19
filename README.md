@@ -11,9 +11,8 @@
 ## Steps:
 1.  First and basic step to create new application in flutter. If you are a beginner in flutter then you can check my blog Create a first app in Flutter. I have created app named as “flutter_otp_auth”
 2.  Now, You need to setup a project in Google Firebase. Follow below steps for that. Please follow the step very carefully.
-    -   Go to https://developers.facebook.com/ and login using your facebook account or create a new one.
-    -   Then create new App using MyApp => Create App and Give the app name and create the app. Check out the below screenshot.
-
+    -   Goto https://console.firebase.google.com/ and add new project. I will share screenshot how it looks so you will get a better idea.
+    -   Click on Add Project to add new project in Google Firebase. Then you will find below form
  
     ![alt text](https://raw.githubusercontent.com/myvsparth/flutter_otp_auth/master/screenshots/1.png)
 
